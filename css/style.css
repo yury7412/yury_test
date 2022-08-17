@@ -6,7 +6,7 @@
 
 body{
     background: url(../img/bg.png) no-repeat;
-    background-size: initial;
+    background-size: auto;
     font-family: 'Dancing Script', cursive;
 }
 
