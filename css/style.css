@@ -6,8 +6,7 @@
 
 body{
     background: url(../img/bg.png) no-repeat;
-    background-size: cover;
-    height: 100vh;
+    background-size: inherit;
     font-family: 'Dancing Script', cursive;
 }
 
