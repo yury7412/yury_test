@@ -5,8 +5,10 @@
 }
 
 body{
-    background: url(../img/bg.png) no-repeat;
-    background-size: inherit;
+    margin:0;
+    padding:0;
+    background: url(../img/bg.png) no-repeat center center fixed;
+    background-size: cover;
     font-family: 'Dancing Script', cursive;
 }
 
